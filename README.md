@@ -42,10 +42,10 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 | **Summary** |    |
 | Identify | The organization's network services stopped responding due to an incoming flood of ICMP packets. Normal network traffic could not access any network resources. Investigation showed that the flood of ICMP packets were sent through an configured firewall. Due to this Vunerability the malicious actor overwhelmed the company's network with a Distributed Denial of Service (DDoS) attack.|
-| Protect | To protect from future attacks, the network security team  implemented the following:
-- New firewall rules that limit the rate of incoming ICMP packets
-- Verification of Source IP address in the firewall to check for spoofed IP addresses on incoming ICMP packets
-- |
+| Protect | To protect from future attacks, the network security team  implemented the following:  
+New firewall rules that limit the rate of incoming ICMP packets  
+Verification of Source IP address in the firewall to check for spoofed IP addresses on incoming ICMP packets  
+|
 | Detect | --------------- |
 | Respond | --------------- |
 | Recover | --------------- |
