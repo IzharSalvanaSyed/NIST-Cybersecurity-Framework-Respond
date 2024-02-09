@@ -5,10 +5,8 @@ Analyze the situation using the National Institute of Standards and Technology's
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
-3. [Botium's Internal Security Audit](#workflow)
+3. [Incident Report Analysis](#analysis)
 4. [Assessment Checklist](#checklist)
-5. [Control Categories Assessment](#assessment)
-6. [Recommendation/Summary](#summary)
 
 ## Introduction <a name="introduction">
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -38,4 +36,9 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 - **Respond** to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
-- **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+- **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
+
+## Incident Report Analysis <a name="analysis">
+
+| Summary | -- |
+| -----|---------------|
