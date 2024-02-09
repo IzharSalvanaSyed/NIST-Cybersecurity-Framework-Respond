@@ -1,10 +1,10 @@
 # NIST-Cybersecurity-Framework-Respond
-will analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create an incident report that you can include as part of your cybersecurity portfolio documentation. The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+Analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create an incident report that you can include as part of your cybersecurity portfolio documentation. The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 
 ### Table of contents
 
 1. [Introduction](#introduction)
-2. [Controls Assessment](#control-assessment)
+2. [Objective](#objective)
 3. [Botium's Internal Security Audit](#workflow)
 4. [Assessment Checklist](#checklist)
 5. [Control Categories Assessment](#assessment)
@@ -27,6 +27,7 @@ To address this security event, the network security team implemented:
 
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
+## Objective <a name="objective">
 As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity incident and integrate your analysis into a general security strategy:
 
 - **Identify** security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security. 
