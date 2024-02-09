@@ -1,4 +1,5 @@
 # NIST-Cybersecurity-Framework-Respond
+will analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create an incident report that you can include as part of your cybersecurity portfolio documentation. The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 
 ### Table of contents
 
